@@ -36,11 +36,8 @@
 ###
 
 <p align="left">
-  I'm a passionate developer currently studying Information Systems.<br><br>
-  - 🔭 I’m focusing on building strong .NET Backend skills.<br>
-  - 🌱 Currently learning C#, SQL, and ASP.NET Core.<br>
-  - 💡 I enjoy solving problems and creating useful backend solutions.<br>
-  - ⚡ In my free time I code, learn new tech 
+🧑🏻‍💻 Building ideas into code.
+  
 </p>
 
 ###
